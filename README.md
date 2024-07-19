@@ -22,6 +22,8 @@ There are various parameters to measure a hospitals performance but for executiv
 - A total of 1131 patients admitted and 978 patients were re-admitted
 - A total of 47435 procedures took place
 - Average length of stay of patients is 7.31 Hrs
+- Claimed cost per visit is $ 3,644
+- Overall 51.98 % of procedures were covered by insurance. 
 - Hospital has claimed $100.82 M and only $30.84 M of claim amount was covered by payers which means out of pocket expenditure is more. 
 - In 2014, claim amount was highest ($12.0 M) followed by 2020 ($10.3 M) which declined in 2021 to $9.2 M. Claim amount and amount covered under insurance followed the same trend. 
 - In 2011, hospital's claim amount was higher than the total cost incurred by the hospital (which includes visit cost and procedures cost including all line items) means hospital was making profit. In rest of the years, hospital was unable to recover the incurred cost.
@@ -34,10 +36,11 @@ There are various parameters to measure a hospitals performance but for executiv
 Medicare and Medicaid are the top payers while United Healthcare, Humana, Aetna, Cigna Health and Anthem are the least amount payers.
 - Procedures performed has declined from 4467 in 2020 to 4388 in 2021. Maximum number of procedures were performed in the year 2014 (6279)
 - Most number of procedures performed in the hospital are - Assessment of health and social care needs(procedure), Hospice care (regime/therapy), depression screening (procedure) 
-- Most revenue generating procedures are - Electrical cardioversion, auscultation of the fetal heart and evaluation of uterine fundal height
-- Admission to ICU have highest claimed cost/ visit ($ 3.21 K) and ALOS is approx. 12 days.
-- Overall 51.23 % of visits in which procedures were performed were covered by insurance. 30.58 % of claimed cost is covered by payers.
-- Procedures which are 100 % insured have the highest % of claimed amount covered by payers.
+- Procedures having highest base cost - Electrical cardioversion, auscultation of the fetal heart and evaluation of uterine fundal height
+- A total of 47435 procedures were performed on 793 patients in 14570 visits amounting to a base cost of $104.80 M.
+- Average length of stay for procedures is 33 Mins.
+- Admission to long stay hospital have highest ALOS of 16 days. 
+- 30.58 % of claimed cost is covered by payers.
 - Claimed cost has declined in the year 2021 by 10.82 % and the amount insured by the payers has declined by 5.59 %. 
 - 30.58 % of claimed cost has been paid by the payers rest is the out of pocket expenditure by the patients. The hospital is unable to recover the incurred cost over the period and is in loss of $ 7.19 M hence, cost optimization or correction in packages is required. 
 - Highest amount of claimed cost has been covered by payers in the year 2011 (47.44 %). 
