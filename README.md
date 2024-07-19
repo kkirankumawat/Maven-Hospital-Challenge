@@ -8,9 +8,13 @@ To build a high level KPI report for the executive team of Massachusetts General
 
 This dashboard has been built keeping in mind that it is to be used by the executive team of the hospital for gaining insights over the hospitals performance and growth. Since for the year 2022, only 2 months data is available, so, I have considered the data from year 2011 – 2021.
 There are various parameters to measure a hospitals performance but for executives what matters is patient volume, patient visit modes, length of stay of patient and revenue generation. Considering the same I have divided the report/ dashboard into following part:
+
 **Revenue Analysis:** It shows the cost claimed by the hospital, amount covered by the insurance companies and cost incurred by the hospital for visits and procedures over the year
+
 **Volume Analysis:** It shows patient growth over the period, visit reasons and type of procedures performed.
+
 **Procedures Analysis:** For analyzing procedures performed in detail, a table has been used consisting cost claimed, cost covered by insurance, number of procedures performed, no. of visits, no. of patients undergone the procedure.
+
 **Yearly Hospital Performance:** This table provides detail how the hospital has performed from 2011 – 2021 in terms of patient volume, admissions, re-admission rate, ALOS, cost covered by insurance, cost claimed, % of cost covered by insurance etc
 
 ## Insights (2011 - 2021):
